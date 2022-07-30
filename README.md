@@ -13,11 +13,13 @@ A responsive weather app that shows current weather + 4-day forecast for any cit
 [🌤️ Live Weather Explorer](https://parveenxkashyap.github.io/weather-explorer/)
 
 ## 📁 File Structure
-weather-explorer/
-├── index.html      # Main layout
-├── styles.css      # Responsive styling + themes
-└── script.js       # Weather API + forecast logic
-
+```
+weather-explorer/│
+├── index.html       # Main layout
+├── styles.css         # Responsive styling + themes
+├── script.js        # Weather API + forecast logic
+└── README.md          # Project documentation
+```
 ## 🔧 Quick Setup
 1. Clone/Download files
 2. Open `index.html` in browser
